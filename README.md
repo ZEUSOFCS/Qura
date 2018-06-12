@@ -31,7 +31,7 @@ further.
 ## Credits
  Code made with lots of ♥️ 
   - ** Developer 👨🏽‍💻  :** [Dorian Javä Brown](www.dorianbrown.me) 
-  - ** UI/UX Designer 👨🏽‍💻  👨🏽‍🎨 :** [Dorian Javä Brown](www.dorianbrown.me) 
+  - ** UI/UX Designer 👨🏽‍🎨 :** [Dorian Javä Brown](www.dorianbrown.me) 
 
 
 <!--## License -->
