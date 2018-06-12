@@ -1,14 +1,14 @@
 
 ![header badge 1x](https://user-images.githubusercontent.com/19171147/41292004-3f193ece-6e1f-11e8-9ec7-edfd7451fbe4.png)
 
-###### Beta 0.09
+###### Beta 1.0.31
 ## Overview of Qura 
 
 #### English 🇺🇸
-Casilla is a simple utility that will hide and unhide all your running applications.
+Qura allows users to quit running applications effortlessly ✌🏽
 
 #### Español 🇪🇸
-Casilla es una utilidad simple que ocultará y mostrará todas las aplicaciones en ejecución.
+Qura permite a los usuarios dejar de ejecutar aplicaciones sin esfuerzo ✌🏽
 
 
 ## Download
@@ -28,6 +28,8 @@ further.
 
 ## What's Next?
 - Reopen Individual Applications
+- Quit All Running Applications
+- Move Application to Application Folder Automactically
 
 
 ## Credits
