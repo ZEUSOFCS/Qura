@@ -1,6 +1,5 @@
 
-
-![header badge](https://user-images.githubusercontent.com/19171147/41291872-d37964b4-6e1e-11e8-8b27-87ec30243226.png)
+![header badge 1x](https://user-images.githubusercontent.com/19171147/41292004-3f193ece-6e1f-11e8-9ec7-edfd7451fbe4.png)
 
 ###### Beta 0.09
 ## Overview of Qura 
@@ -14,7 +13,7 @@ Casilla es una utilidad simple que ocultará y mostrará todas las aplicaciones 
 
 ## Download
 
-[Qura](https://itunes.apple.com/us/app/casilla/id1347734216?mt=12&ref=producthunt)
+[Qura](https://www.qura.co)
 
 
 ## Issues
