@@ -15,11 +15,11 @@ Casilla es una utilidad simple que ocultará y mostrará todas las aplicaciones 
 
 
 ## Issues
-First, please search the [open issues](https://github.com/ZEUSOFCS/Casilla/issues?q=is%3Aopen)
-and [closed issues](https://github.com/ZEUSOFCS/Casilla/issues?q=is%3Aclosed)
+First, please search the [open issues](https://github.com/ZEUSOFCS/Qura/issues?q=is%3Aopen)
+and [closed issues](https://github.com/ZEUSOFCS/Qura/issues?q=is%3Aclosed)
 to see if your issue hasn't already been reported (it may also be fixed).
 
-If you can't find an issue that matches what you're seeing, open a [new issue](https://github.com/ZEUSOFCS/Casilla/issues)
+If you can't find an issue that matches what you're seeing, open a [new issue](https://github.com/ZEUSOFCS/Qura/issues)
 and fill out the template to provide us with enough information to investigate
 further.
 
