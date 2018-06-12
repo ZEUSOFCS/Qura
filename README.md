@@ -1,4 +1,7 @@
 
+
+![header badge](https://user-images.githubusercontent.com/19171147/41291872-d37964b4-6e1e-11e8-8b27-87ec30243226.png)
+
 ###### Beta 0.09
 ## Overview of Qura 
 
